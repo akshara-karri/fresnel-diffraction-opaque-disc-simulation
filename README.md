@@ -61,6 +61,10 @@ This project was collaboratively developed as part of the EP2102: Optics & Laser
 - Badavath Madhulatha
 - Tejeswin R
 
+## Simulation Results
+
+![Poisson-Arago Spot Simulation](results/simulation_results.png)
+
 ## Acknowledgement
 
 An academic project exploring the connection between wave optics and computational programming.
